@@ -1,0 +1,2 @@
+core/app/services/ExchangeOperationsServicesImplTest.java
+ core.app.services.ExchangeOperationsServicesImplTest
